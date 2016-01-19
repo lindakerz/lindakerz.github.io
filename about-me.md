@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about-me/index.html
-title: About Me - Linda Kerz
+title: About Me
 tags: []
 image:
   feature: linda-kerz.jpg
