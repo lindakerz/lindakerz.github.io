@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Innovation for innovations sake?
+title: Innovation for innovation's sake?
 description: "When do we reinvent the wheel?"
 headline: "When do we reinvent the wheel?"
 categories: 
