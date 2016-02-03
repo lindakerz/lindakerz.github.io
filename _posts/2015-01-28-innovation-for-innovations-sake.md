@@ -4,8 +4,8 @@ title: Innovation for innovation's sake?
 description: "When do we reinvent the wheel?"
 headline: "When do we reinvent the wheel?"
 categories: 
-  - personal
-tags: personal
+  - Product Management
+tags: product management
 imagefeature: "cover-01.jpeg"
 imagecredit: unsplash.com
 imagecreditlink: "https://unsplash.com/photos/Ki0dpxd3LGc"
