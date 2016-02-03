@@ -12,7 +12,7 @@ image:
 
 My name is **Linda Kerz**, and this is my personal blog.  
 
-###Contact Me###
+###Contact Me
 
 <script type="text/javascript"> id = 183141; </script>  
 
