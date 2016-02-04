@@ -42,7 +42,8 @@ links:
 #    url: /categories
   - title: Portfolio
     url: /portfolio
-    - title: About
+    external: true
+  - title: About
     url: /about-me
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
