@@ -6,7 +6,7 @@ headline: "When do we reinvent the wheel?"
 categories: 
   - Product Management
 tags: product management
-imagefeature: "cover-02.jpeg"
+imagefeature: "cover-02.jpg"
 imagecredit: unsplash.com
 imagecreditlink: "https://unsplash.com/photos/8mqOw4DBBSg"
 comments: false
