@@ -1,0 +1,122 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+
+}
+
+.summer-blog-logo {
+	display: inline-block;
+    max-height: 5rem;
+}
+
+.summer-blog-logo img {
+	max-height: 5rem;
+}
+
+
+main section {
+  width: 100%;
+  display: table;
+  margin: 0;
+  max-width: none;
+  background-color: #373B44;
+  height: 90vh;
+}
+main section:nth-of-type(2n) {
+  background-color: #FE4B74;
+}
+
+section.header {
+	background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: url(../../images/negative-space.jpg);
+
+
+}
+
+section .image-content {
+	width: 60vw;
+	padding: 5rem;
+	display: table-cell;
+	text-align: center;
+}
+
+section .text-content {
+	width: 40vw;
+	padding: 5rem;
+	display: table-cell;
+	text-align: center;
+}
+
+section .image-content img {
+	box-shadow: 8px 8px 10px rgba(0,0,0,0.3);
+}
+
+
+.intro {
+  height: 90vh;
+  text-align: center;
+}
+
+.content {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.content.ubank {
+	background: #ADD100; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #ADD100 , #7B920A); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #ADD100 , #7B920A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.content.ironfly1 {
+	background: #16222A; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #16222A , #3A6073); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #16222A , #3A6073); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.content.ironfly2 {
+background: #616161; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #616161 , #9bc5c3); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #616161 , #9bc5c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.content.ubank2 {
+background: #000000; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #000000 , #53346D); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #000000 , #53346D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */       
+}
+
+.content.ironfly-website {
+background: #3CA55C; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #3CA55C , #B5AC49); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #3CA55C , #B5AC49); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.content-container {
+  display: table;
+}
+
+h1 {
+  font-size: 4em;
+  display: block;
+  color: white;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin: 2rem 0;
+}
+
+h2 {
+	color: #fff;
+}
+
+p {
+  font-size: 1.5em;
+  font-weight: 500;
+  color: #f6f6f6;
+}
+
