@@ -441,10 +441,11 @@ html, body, .summer-post-container, .summer-post-header {
             .summer-page-container .summer-page-content > div:not(.summer-page-title) p:first-child {
               font-size: 1.625rem; } }
         .summer-page-container .summer-page-content > div:not(.summer-page-title) p.with-image {
-          text-align: center;
+          /*text-align: center;
           padding-top: 3.125rem;
           padding-bottom: 3.125rem;
-          max-width: 75rem; }
+          max-width: 75rem; */
+        }
   @media screen and (max-width: 47em) {
     .summer-page-container .summer-page-title, .summer-page-container .summer-page-content {
       font-size: 70%; } }
