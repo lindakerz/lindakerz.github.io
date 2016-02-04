@@ -215,10 +215,11 @@ html, body, .summer-post-container, .summer-post-header {
             .post-template .summer-post-content > div:not(.summer-post-title) p:first-child {
               font-size: 1.625rem; } }
         .post-template .summer-post-content > div:not(.summer-post-title) p.with-image {
-          text-align: center;
+          /*text-align: center;
           padding-top: 3.125rem;
           padding-bottom: 3.125rem;
-          max-width: 75rem; }
+          max-width: 75rem; */
+        }
   @media screen and (max-width: 47em) {
     .post-template .summer-post-title, .post-template .summer-post-content {
       font-size: 70%; } }
