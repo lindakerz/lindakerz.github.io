@@ -7,14 +7,14 @@ image:
   feature: linda-kerz.jpg
 ---
 
-  <img src="{{ site.url }}/images/linda-kerz.jpg" alt="Linda Kerz">
+  
 
 
-My name is **Linda Kerz**, and this is my personal blog.  
+My name is **Linda Kerz**, and this is my personal blog. <img src="{{ site.url }}/images/linda-kerz.jpg" alt="Linda Kerz" style="width:300px;"> 
 
 I'm a digital media manager with 9 years of industry experience in product management, user experience design, web development and online marketing. Proficient in all aspects of planning, developing, building and managing both small and large scale web projects, maintaining complex web architectures, and designing outstanding user experiences. I'm a technology generalist who has built top-performing teams and provides staff with the leadership, resources, and motivation to achieve goals.
 
-
+<br><br>
 
 ### Contact Me
 
