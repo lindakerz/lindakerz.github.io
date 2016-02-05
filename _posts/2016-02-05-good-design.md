@@ -1,17 +1,19 @@
 ---
 layout: post
-published: false
+published: true
 description: ""
 headline: ""
 modified: ""
 categories: 
   - ux
 tags: ""
-imagefeature: ""
+imagefeature: "cover-03.jpeg"
+imagecredit: unsplash.com
+imagecreditlink: "https://unsplash.com/photos/eOpewngf68w"
 mathjax: false
 featured: false
 comments: false
-title: What is good design
+title: Good Design
 ---
 
 
