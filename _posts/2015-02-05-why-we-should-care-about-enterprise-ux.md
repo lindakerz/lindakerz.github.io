@@ -15,6 +15,8 @@ title: Why we should care about Enterprise UX
 ---
 
 
+http://blog.invisionapp.com/navigating-an-enterprise-ux-project/
+
 Enterprise UX. 
 
 "Ugh... It works, why should we waste our time?" 
